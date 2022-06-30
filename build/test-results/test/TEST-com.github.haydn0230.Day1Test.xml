@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.github.haydn0230.Day1Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-27T15:09:28" hostname="SBGML06119" time="0.033">
+  <properties/>
+  <testcase name="check that numbers returned equal 2020()" classname="com.github.haydn0230.Day1Test" time="0.033"/>
+  <system-out><![CDATA[299=1721
+1041=979
+1654=366
+1721=299
+1345=675
+564=1456
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
